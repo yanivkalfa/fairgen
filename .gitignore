@@ -1,0 +1,21 @@
+### Node
+/node/**
+**/node_modules/**
+**/bower_components/**
+
+### Intellij
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+### OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+.svn
+._*
+.Spotlight-V100
+.Trashes
